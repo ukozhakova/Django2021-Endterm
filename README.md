@@ -6,7 +6,7 @@ Back-end application for online clothing shopping
   <li>Admin
 <h5>Users can sign up/sign in, see the list of all products (for dedicated category or from dedicated provider), leave a review, order a product (add to cart)
 
-# <ul>Models
+# Models
 <li>Base Info
 <li>Category
 <li>Provider
